@@ -1,3 +1,3 @@
-# Black-Vite
+# ♦️♣️ Black-Vite ♠️♥️
 
-	==Simple BlackJack game whit Vite flavor==. 
+>*- Simple BlackJack game whit Vite flavor*
